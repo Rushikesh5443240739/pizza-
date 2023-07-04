@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-ruda: Ruda;
+  --font-quattrocento: Quattrocento;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-41xl: 60px;
+  --font-size-6xl: 25px;
+  --font-size-9xl: 28px;
+  --font-size-82xl: 101px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-firebrick: #b62828;
+  --color-gray: rgba(255, 255, 255, 0.3);
+  --color-goldenrod: #f2c94c;
+  --color-tomato: #f24c4c;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+}
